@@ -1,0 +1,40 @@
+.lol {
+    background-color: black;
+    display: block;
+    text-align: center;
+    padding-bottom: 0;
+}
+
+#cont {
+    color: white;
+    font-family: 'Montserrat', serif;
+    font-size: 3.5em;
+    position: relative;
+    bottom: 4em;
+    font-weight: bolder;
+}
+
+
+#banner {
+    display: inline-block;
+
+
+
+}
+
+#cover {
+    display: inline-block;
+    width: 30em;
+    height: 30em;
+}
+.photo{
+   position: relative;
+   top: 3.5em;
+}
+.ell{
+  position: absolute;
+  left: -0.5px;
+  z-index: -1;
+  bottom: -0.5em;
+  margin-bottom: 0;
+}
